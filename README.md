@@ -48,6 +48,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 
 | Date | Title | Paper |
 |:------:|:------|:------:|
+| 2026-04 | FileGram: Grounding Agent Personalization in File-System Behavioral Traces | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.04901) |
 | 2026-01 | Membox: Weaving Topic Continuity into Long-Range Memory for LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.03785) |
 | 2026-01 | Grounding Agent Memory in Contextual Intent | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.10702) |
 | 2026-01 | Continuum Memory Architectures for Long-Horizon LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.09913) |
@@ -242,7 +243,6 @@ This taxonomy maps directly to the three primary application scenarios that orga
 
 | Date | Name | Title | Paper | GitHub |
 | :------: | :------ | :------ | :------: | :------: |
-| 2026-04 | FileGram | FileGram: Grounding Agent Personalization in File-System Behavioral Traces | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.04901) | [![GitHub Stars](https://img.shields.io/github/stars/Synvo-ai/FileGram?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/Synvo-ai/FileGram) |
 | 2026-01 | CloneMem | CloneMem: Benchmarking Long-Term Memory for AI Clones | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.07023) | [![GitHub Stars](https://img.shields.io/github/stars/AvatarMemory/CloneMemBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/AvatarMemory/CloneMemBench) |
 | 2026-01 | KnowMe-Bench | KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.04745) | [![GitHub Stars](https://img.shields.io/github/stars/QuantaAlpha/KnowMeBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/QuantaAlpha/KnowMeBench) |
 | 2026-01 | RealMem | RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.06966) | [![GitHub Stars](https://img.shields.io/github/stars/AvatarMemory/RealMemBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/AvatarMemory/RealMemBench) |
