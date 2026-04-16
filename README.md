@@ -48,6 +48,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 
 | Date | Title | Paper |
 |:------:|:------|:------:|
+| 2026-04 | FileGram: Grounding Agent Personalization in File-System Behavioral Traces | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.04901) |
 | 2026-01 | Membox: Weaving Topic Continuity into Long-Range Memory for LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.03785) |
 | 2026-01 | Grounding Agent Memory in Contextual Intent | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.10702) |
 | 2026-01 | Continuum Memory Architectures for Long-Horizon LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.09913) |
